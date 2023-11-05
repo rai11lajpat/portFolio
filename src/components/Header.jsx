@@ -1,4 +1,5 @@
 import { useState } from "react";
+import cv from '../assets/CV_LajpatRai_11.pdf';
 
 const Header = () => {
 
@@ -27,7 +28,7 @@ const Header = () => {
     ])
     const [actionButton,setActionButton]=useState({
         title:"Download CV",
-        link:"/Hire me"
+        link:{cv}
     })
   return (
     <>
