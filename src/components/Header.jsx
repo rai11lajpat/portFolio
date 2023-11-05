@@ -28,7 +28,7 @@ const Header = () => {
     ])
     const [actionButton,setActionButton]=useState({
         title:"Download CV",
-        link:{cv}
+        link:{cv},
     })
   return (
     <>
@@ -46,7 +46,7 @@ const Header = () => {
         </div>
 
         <div>
-          <a href={actionButton.link} className="bg-orange-500 shadow px-4 py-2 rounded-full text-1xl">
+          <a href={cv} className="bg-orange-500 shadow px-4 py-2 rounded-full text-1xl">
             {actionButton.title}
           </a>
         </div>
