@@ -42,16 +42,16 @@ const Baner = () => {
              
             </p>
             <div className="icon-container flex space-x-5 mt-2">
-              <a className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 p-6 flex justify-center items-center rounded-full">
+              <a href="https://www.lajpatsankhla@gmail.com" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 p-6 flex justify-center items-center rounded-full">
                 <i class="fa-solid text-3xl fa-envelope"></i>
               </a>
-              <a className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
+              <a href="https://www.linkedin.com/in/11-lajpat-rai/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i class="fa-brands text-3xl fa-linkedin-in"></i>
               </a>
-              <a className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
+              <a href="https://github.com/rai11lajpat" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i class="fa-brands text-3xl fa-github"></i>
               </a>
-              <a className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
+              <a href="https://www.instagram.com/rai_lajpat108/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i class="fa-brands text-3xl fa-instagram"></i>
               </a>
             </div>
