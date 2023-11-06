@@ -1,5 +1,5 @@
 import { useRef,useEffect } from "react";
-import bannerImage from "../assets/f1-r.png";
+import bannerImage from "../assets/f5.png";
 import backgroundImage from "../assets/two.jpg";
 import Typed from "typed.js";
 
@@ -68,7 +68,7 @@ const Baner = () => {
 
         <div className=" w-full flex justify-center">
           <img
-            className="rounded-full shadow-lg max-w-sm "
+            className="rounded-full shadow-lg max-w-lg "
             src={bannerImage}
             alt=""
           />
