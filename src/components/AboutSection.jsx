@@ -2,10 +2,11 @@ import bannerImage from "../assets/f2-r.png";
 const AboutSection = () => {
   return (
     <>
-      <div className="about  bg-gray-200">
-        <h2 className="pt-5 text-3xl underline  text-center font-bold ">
+    <h2 className="pt-5 text-3xl underline  text-center font-bold ">
           About Me
         </h2>
+      <div className="about  bg-gray-200">
+        
         <div className="flex mt-10 ms-28">
           <div className="flex justify-center w-full">
             <img

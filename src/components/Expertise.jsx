@@ -2,7 +2,7 @@ import backgroundImage from "../assets/ex.jpg";
 const Expertise = () => {
   return (
     <>
-      <h2 className=" text-3xl underline  text-center font-bold ">
+      <h2 className="pt-5 text-3xl underline  text-center font-bold ">
         My Expertise
       </h2>
 

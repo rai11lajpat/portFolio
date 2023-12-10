@@ -1,13 +1,14 @@
 import { useState } from "react";
 import cv from '../assets/CV_LajpatRai_11.pdf';
+import { Link } from "react-router-dom";
 
 const Header = () => {
-
+ 
     const [brandName,setBrandName]=useState("Lajpat Rai Malhi");
     const [menuLinks,setMenuLinks]=useState([
         {
-            title:"Home",
-            link:"/About",
+            title:"Baner",
+            link:"./Baner",
             id:1,
         },
         {
@@ -38,11 +39,16 @@ const Header = () => {
         </div>
 
         <div className="space-x-6">
-            {menuLinks.map((link)=>(
+            {/* {menuLinks.map((link)=>(
                 <a key={link.id} href={link.link} className="hover:text-orange-600">
                 {link.title}
               </a>
-            ))}
+            ))} */}
+            <Link to="/website/" className="hover:text-orange-600">Home</Link>
+            <Link to="/About" className="hover:text-orange-600">About</Link>
+            <Link to="/services" className="hover:text-orange-600">Services</Link>
+            <Link to="/Expertise" className="hover:text-orange-600">Expertise</Link>
+
         </div>
 
         <div>
