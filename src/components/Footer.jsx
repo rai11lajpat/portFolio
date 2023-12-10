@@ -1,7 +1,7 @@
 const Footer=()=>{
     return(
         <>
-        <div className="flex bg-slate-300 py-6 justify-between px-72 border">
+        <div className="mt-5 flex bg-slate-300 py-6 justify-between px-72 border">
             <div className="flex text-center">
                 <p>
                 @2023 Lajpat Rai Malhi <span>All Rights Resrved</span>
