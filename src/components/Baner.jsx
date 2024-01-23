@@ -1,5 +1,5 @@
 import { useRef,useEffect } from "react";
-import bannerImage from "../assets/f5.png";
+import bannerImage from "../assets/dpp.png";
 import backgroundImage from "../assets/two.jpg";
 import Typed from "typed.js";
 
@@ -37,8 +37,7 @@ const Baner = () => {
             <h1 className="mt-4 text-5xl font-bold">Lajpat Rai</h1>
             <h2 className="mt-4 text-2xl">And I am <span className="font-bold" ref={el}></span></h2>
             <p className="mt-4">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-              vel placeat optio est cumque porro laboriosam laudantium delectus
+            Currently a Computer Science student at Dawood University. Serving as the Co-Lead at the Google Developer Student Club (GDSC) of Dawood University Chapter, and I'm also a motivational speaker
              
             </p>
             <div className="icon-container flex space-x-5 mt-2">

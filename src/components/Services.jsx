@@ -12,10 +12,7 @@ const Services = () => {
             </div>
                <h1 className="text-center text-3xl">Web Development</h1>
             <p className="mt-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-              porro qui nostrum sequi, aperiam minus libero alias eligendi
-              ratione voluptates, accusantium atque tenetur placeat. Ipsum ipsam
-              sequi at eius quod!
+            Specializing in React, Tailwind CSS, Bootstrap, and more, I offer front-end development services that blend visual appeal with functionality. With React, I create dynamic and interactive web applications. Leveraging Tailwind CSS and Bootstrap, I ensure responsive and stylish designs. From crafting custom front-end solutions to optimizing user experiences, my expertise lies in delivering modern, user-friendly interfaces that elevate web applications to the next level.
             </p>
             <br />
             <div className="text-center">
@@ -35,10 +32,7 @@ const Services = () => {
             </div>
             <h1 className="text-center text-3xl">Backend Development</h1>
             <p className="mt-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-              porro qui nostrum sequi, aperiam minus libero alias eligendi
-              ratione voluptates, accusantium atque tenetur placeat. Ipsum ipsam
-              sequi at eius quod!
+            As a Backend Developer, I specialize in Java, Spring Boot, JDBC, MySQL database, Servlets, and log4j for comprehensive logging. I also excel in developing REST APIs with Spring Boot. With this skill set, I design scalable backend solutions that ensure optimal functionality using Java and Spring Boot. Leveraging JDBC, I establish efficient database connectivity, while Servlets enable the creation of dynamic web applications. The integration of log4j enhances reliability and troubleshooting capabilities, providing robust logging, monitoring, and debugging functionalities. This expertise allows me to deliver backend solutions that prioritize performance, security, and scalability, including the development of RESTful APIs for seamless communication with other systems.
             </p>
             <br />
             <div className="text-center">
