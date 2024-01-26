@@ -26,6 +26,11 @@ const Header = () => {
             link:"/Contact",
             id:4,
         },
+        {
+          title:"Projects",
+          link:"/Projects",
+          id:5,
+      },
     ])
     const [actionButton,setActionButton]=useState({
         title:"Download CV",
@@ -46,8 +51,10 @@ const Header = () => {
             ))} */}
             <Link to="/website/" className="hover:text-orange-600">Home</Link>
             <Link to="/About" className="hover:text-orange-600">About</Link>
-            <Link to="/services" className="hover:text-orange-600">Services</Link>
             <Link to="/Expertise" className="hover:text-orange-600">Expertise</Link>
+            <Link to="/Projects" className="hover:text-orange-600">Projects</Link>
+            <Link to="/services" className="hover:text-orange-600">Services</Link>
+            
 
         </div>
 
