@@ -49,7 +49,7 @@ const Header = () => {
                 {link.title}
               </a>
             ))} */}
-            <Link to="/website/" className="hover:text-orange-600">Home</Link>
+            <Link to="/portFolio/" className="hover:text-orange-600">Home</Link>
             <Link to="/About" className="hover:text-orange-600">About</Link>
             <Link to="/Expertise" className="hover:text-orange-600">Expertise</Link>
             <Link to="/Projects" className="hover:text-orange-600">Projects</Link>
