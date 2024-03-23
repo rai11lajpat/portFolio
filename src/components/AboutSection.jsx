@@ -5,9 +5,9 @@ const AboutSection = () => {
       <h2 className="pt-5 text-3xl underline  text-center font-bold ">
         About Me
       </h2>
-      <div className="about  bg-gray-200">
+      <div className="about  bg-gray-200 rounded-2xl ml-5 mr-5">
 
-        <div className="flex mt-10 ms-28">
+        <div className="flex mt-5 ms-28">
           <div className="flex justify-center w-full">
             <img
               className="rounded-xl shadow-lg max-w-sm "
