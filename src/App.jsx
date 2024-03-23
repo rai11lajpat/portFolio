@@ -16,7 +16,6 @@ function App() {
         <Header/>
 
         <Routes>
-        <Route path="/website/" element={<><Baner/> <AboutSection/><Services/><Expertise/><Projects/></>} />
           <Route path="/portFolio/" element={<><Baner/> <AboutSection/><Services/><Expertise/><Projects/></>} />
           <Route path="/About" element={<AboutSection/>} />
           <Route path='/Projects' element={<Projects/>}/>
