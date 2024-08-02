@@ -1,4 +1,4 @@
-import bannerImage from "../assets/f2-r.png";
+import bannerImage from "../assets/dpp.png";
 const AboutSection = () => {
   return (
     <>

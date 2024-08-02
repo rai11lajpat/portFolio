@@ -1,5 +1,5 @@
 import { useRef,useEffect } from "react";
-import bannerImage from "../assets/dpp.png";
+import bannerImage from "../assets/file.png";
 import backgroundImage from "../assets/two.jpg";
 import Typed from "typed.js";
 
@@ -50,7 +50,7 @@ const Baner = () => {
               <a href="https://github.com/rai11lajpat" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i class="fa-brands text-3xl fa-github"></i>
               </a>
-              <a href="https://www.instagram.com/rai_lajpat108/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
+              <a href="https://www.instagram.com/rai_lajpat11/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i class="fa-brands text-3xl fa-instagram"></i>
               </a>
             </div>
