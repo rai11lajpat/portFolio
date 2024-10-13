@@ -24,7 +24,7 @@ const AboutSection = () => {
               <br />
               <a
                 className=" bg-orange-500 text-1xl font-bold px-3 py-2 rounded-full"
-                href="/contact me"
+                href="https://github.com/rai11lajpat"
               >
                 Read More...
               </a>

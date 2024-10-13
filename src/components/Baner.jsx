@@ -58,7 +58,7 @@ const Baner = () => {
 
             <a
               className="bg-orange-500 text-1xl px-3 py-2 rounded-full"
-              href="/contact me"
+              href="https://www.lajpatsankhla@gmail.com"
             >
               Contact me
             </a>

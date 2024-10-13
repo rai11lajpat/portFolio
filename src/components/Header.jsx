@@ -40,7 +40,8 @@ const Header = () => {
     <>
       <div className="h-20  main flex justify-between items-center p-10 bg-gray-200">
         <div>
-          <h1 className="text-2xl font-bold">{brandName}</h1>
+          <Link className="text-2xl font-bold hover:text-orange-600" to="/portFolio/">{brandName}</Link>
+          
         </div>
 
         <div className="space-x-6">

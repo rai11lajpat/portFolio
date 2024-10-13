@@ -18,7 +18,7 @@ const Services = () => {
             <div className="text-center">
               <a
                 className=" bg-orange-500 text-1xl font-bold px-3 py-2 rounded-full"
-                href="/contact me"
+                href="https://github.com/rai11lajpat?tab=repositories"
               >
                 Check
               </a>
@@ -42,7 +42,7 @@ const Services = () => {
             <div className="text-center">
               <a
                 className=" bg-orange-500 text-1xl font-bold px-3 py-2 rounded-full"
-                href="/contact me"
+                href="https://github.com/rai11lajpat?tab=repositories"
               >
                 Check
               </a>
