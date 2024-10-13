@@ -53,12 +53,16 @@ const Baner = () => {
               <a href="https://www.instagram.com/rai_lajpat11/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i className="fa-brands text-3xl fa-instagram"></i>
               </a>
+              <a href="https://wa.me/923454540350" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
+              <i className="fa-brands fa-whatsapp text-3xl"></i>
+
+              </a>
             </div>
             <br />
 
             <a
               className="bg-orange-500 text-1xl px-3 py-2 rounded-full"
-              href="https://www.lajpatsankhla@gmail.com"
+              href="https://wa.me/923454540350"
             >
               Contact me
             </a>
