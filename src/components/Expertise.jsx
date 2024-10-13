@@ -52,6 +52,12 @@ const Expertise = () => {
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">MySQL</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">CSS</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Redis</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">JWT</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">caching</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">web-socket</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">web-client</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">logging</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">unitTesting</p>
           </div>
         </div>
 
