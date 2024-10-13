@@ -1,4 +1,4 @@
-import bannerImage from "../assets/dpp.png";
+import bannerImage from "../assets/file2.jpg";
 const AboutSection = () => {
   return (
     <>
@@ -8,9 +8,9 @@ const AboutSection = () => {
       <div className="about  bg-gray-200 rounded-2xl ml-5 mr-5">
 
         <div className="flex mt-5 ms-28">
-          <div className="flex justify-center w-full">
+          <div className="flex justify-center w-full p-4">
             <img
-              className="rounded-xl shadow-lg max-w-sm "
+              className="rounded-xl shadow-lg max-w-sm"
               src={bannerImage}
               alt=""
             />

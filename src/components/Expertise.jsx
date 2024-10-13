@@ -38,17 +38,20 @@ const Expertise = () => {
 
         <div className="flex justify-center">
           <div className="flex space-x-3 flex-wrap w-4/3 justify-center">
+          
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Core Java</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">ReactJS</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">JDBC</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Servlet</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">spring boot</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">jpa</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Log4j</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">javaScript</p>
-            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">React</p>
-            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">tailwand css</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Bootstrap</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">tailwand css</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">MySQL</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">CSS</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Redis</p>
           </div>
         </div>
 
