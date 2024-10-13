@@ -17,10 +17,10 @@ function App() {
 
         <Routes>
           <Route path="/portFolio/" element={<><Baner/> <AboutSection/><Services/><Expertise/><Projects/></>} />
-          <Route path="/About" element={<AboutSection/>} />
-          <Route path='/Projects' element={<Projects/>}/>
-          <Route path="/services" element={<Services/>} />
-          <Route path="/Expertise" element={<Expertise/>} />
+          <Route path="/portFolio/About" element={<AboutSection/>} />
+          <Route path='/portFolio/Projects' element={<Projects/>}/>
+          <Route path="/portFolio/services" element={<Services/>} />
+          <Route path="/portFolio/Expertise" element={<Expertise/>} />
         </Routes>
         <Footer/>
    

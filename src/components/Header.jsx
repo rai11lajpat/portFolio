@@ -51,10 +51,10 @@ const Header = () => {
               </a>
             ))} */}
             <Link to="/portFolio/" className="hover:text-orange-600">Home</Link>
-            <Link to="/About" className="hover:text-orange-600">About</Link>
-            <Link to="/Expertise" className="hover:text-orange-600">Expertise</Link>
-            <Link to="/Projects" className="hover:text-orange-600">Projects</Link>
-            <Link to="/services" className="hover:text-orange-600">Services</Link>
+            <Link to="/portFolio/About" className="hover:text-orange-600">About</Link>
+            <Link to="/portFolio/Expertise" className="hover:text-orange-600">Expertise</Link>
+            <Link to="/portFolio/Projects" className="hover:text-orange-600">Projects</Link>
+            <Link to="/portFolio/services" className="hover:text-orange-600">Services</Link>
             
 
         </div>
