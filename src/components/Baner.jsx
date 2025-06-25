@@ -37,8 +37,7 @@ const Baner = () => {
             <h1 className="mt-4 text-5xl font-bold">Lajpat Rai</h1>
             <h2 className="mt-4 text-2xl">And I am <span className="font-bold" ref={el}></span></h2>
             <p className="mt-4">
-            Currently a Computer Science student at Dawood University. Serving as the Co-Lead at the Google Developer Student Club (GDSC) of Dawood University Chapter, and I'm also a motivational speaker
-             
+            A fresh Computer Science graduate from Dawood University of Engineering and Technology with a strong foundation in backend development using Java, Spring Boot, and Oracle. Served as Co-Lead of the Google Developer Student Club (GDSC) – DUET Chapter. Passionate about building scalable backend systems, with hands-on experience in MySQL, REST APIs, and chatbot development. Also active as a motivational speaker and tech community contributor.
             </p>
             <div className="icon-container flex space-x-5 mt-2">
               <a href="https://www.lajpatsankhla@gmail.com" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 p-6 flex justify-center items-center rounded-full">
