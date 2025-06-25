@@ -40,7 +40,7 @@ const Baner = () => {
             A fresh Computer Science graduate from Dawood University of Engineering and Technology with a strong foundation in backend development using Java, Spring Boot, and Oracle. Served as Co-Lead of the Google Developer Student Club (GDSC) – DUET Chapter. Passionate about building scalable backend systems, with hands-on experience in MySQL, REST APIs, and chatbot development. Also active as a motivational speaker and tech community contributor.
             </p>
             <div className="icon-container flex space-x-5 mt-2">
-              <a href="https://www.lajpatsankhla@gmail.com" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 p-6 flex justify-center items-center rounded-full">
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lajpatsankhla@gmail.com" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 p-6 flex justify-center items-center rounded-full">
                 <i className="fa-solid text-3xl fa-envelope"></i>
               </a>
               <a href="https://www.linkedin.com/in/11-lajpat-rai/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
@@ -49,7 +49,7 @@ const Baner = () => {
               <a href="https://github.com/rai11lajpat" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i className="fa-brands text-3xl fa-github"></i>
               </a>
-              <a href="https://www.instagram.com/rai_lajpat11/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
+              <a href="https://www.instagram.com/rai.lajpat11/" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
                 <i className="fa-brands text-3xl fa-instagram"></i>
               </a>
               <a href="https://wa.me/923454540350" className="hover:bg-orange-500 border cursor-pointer bg-slate-900 h-12 w-12 px-6 py-6 flex justify-center items-center rounded-full">
