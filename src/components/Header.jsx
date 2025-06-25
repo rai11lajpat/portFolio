@@ -1,5 +1,5 @@
 import { useState } from "react";
-import cv from '../assets/Lajpat Rai_Spring_Boot_java_intern.pdf';
+import cv from '../assets/Java_Lajpat_Rai.pdf';
 import { Link } from "react-router-dom";
 
 const Header = () => {
@@ -31,6 +31,11 @@ const Header = () => {
           link:"/Projects",
           id:5,
       },
+      {
+          title:"FinalYearProject",
+          link:"/FinalYearProject",
+          id:6,
+      },
     ])
     const [actionButton,setActionButton]=useState({
         title:"Download CV",
@@ -52,6 +57,7 @@ const Header = () => {
             ))} */}
             <Link to="/portFolio/" className="hover:text-orange-600">Home</Link>
             <Link to="/portFolio/About" className="hover:text-orange-600">About</Link>
+            <Link to="/portFolio/FinalYearProject" className="hover:text-orange-600">Final Year Project</Link>
             <Link to="/portFolio/Expertise" className="hover:text-orange-600">Expertise</Link>
             <Link to="/portFolio/Projects" className="hover:text-orange-600">Projects</Link>
             <Link to="/portFolio/services" className="hover:text-orange-600">Services</Link>

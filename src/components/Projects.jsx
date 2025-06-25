@@ -3,6 +3,7 @@ import project2 from "../assets/email.jpg"
 import project3 from "../assets/chatt.jpg"
 import project4 from "../assets/book.jpg"
 import project5 from "../assets/jwt.jpg"
+import project6 from "../assets/a.png"
 const Projects = () => {
     return (
         <>
@@ -127,6 +128,28 @@ connection MySql, LOG4j (to generate log)
 
                         </div>
                     </div>
+                    
+                    {/* <div className="w-1/3 px-4 py-4" >
+                        <div className=" max-w-md roundedS shadow-lg">
+                            <img className="w-full" src={project6}></img>
+                            <div className="px-6 py-4">
+                                <div className="font-bold text-xl mb-2">DUET WhatsApp Assistant</div>
+                                <p className="text-gray-700 text-base ">
+                                    <b>Backend:</b>A JWT token generation with Spring Boot secures APIs with token-based authentication, generates logs for monitoring and debugging, and tracks user activity, ensuring efficient and secure access using JWT.
+                                
+                                </p>
+                                
+                            </div>
+                            <div className="px-6 pt-4 pb-2">
+                                <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#jwt</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#springBoot</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#authentication</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#logging</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Mysql</span>
+                            </div>
+
+                        </div>
+                    </div> */}
 
 
 
