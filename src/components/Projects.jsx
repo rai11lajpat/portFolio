@@ -3,7 +3,7 @@ import project2 from "../assets/email.jpg"
 import project3 from "../assets/chatt.jpg"
 import project4 from "../assets/book.jpg"
 import project5 from "../assets/jwt.jpg"
-import project6 from "../assets/a.png"
+// import project6 from "../assets/a.png"
 const Projects = () => {
     return (
         <>
