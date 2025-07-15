@@ -1,5 +1,5 @@
 import { useState } from "react";
-import cv from '../assets/Java_Lajpat_Rai.pdf';
+import cv from '../assets/CV Lajpat Rai- JAVA.pdf';
 import { Link } from "react-router-dom";
 
 const Header = () => {

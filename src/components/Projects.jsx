@@ -43,7 +43,7 @@ const Projects = () => {
                         <div className=" max-w-md roundedS shadow-lg">
                             <img className="w-full" src={project2}></img>
                             <div className="px-6 py-4">
-                                <div className="font-bold text-xl mb-2">Email API</div>
+                                <div className="font-bold text-xl mb-2">SMPT API</div>
                                 <p className="text-gray-700 text-base ">
                                     <b>Backend:</b>using Spring Boot with automated email sending, history
                                     storage in MySQL, and integrated caching for enhanced performance.

@@ -43,10 +43,13 @@ const Expertise = () => {
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Oracle</p>
            
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">spring boot</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Docker</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Maven</p>
              <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">ReactJS</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">JDBC</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Servlet</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">jpa</p>
+            <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Git</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Log4j</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">javaScript</p>
             <p className="px-5 py-3 bg-gray-300 w-fit rounded-full mt-2 hover:bg-orange-500 cursor-pointer">Bootstrap</p>
